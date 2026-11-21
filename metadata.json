@@ -1,0 +1,6 @@
+{
+  "name": "RescueMesh AI",
+  "description": "Offline Emergency Communication & Rescue Coordination System (SIH26206) featuring Store-Carry-Forward mesh networking, AI severity prioritization, and a real-time rescue command dashboard.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
